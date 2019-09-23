@@ -17,3 +17,6 @@ Add them to your copy of HakchiCE as they are, add cover art, sync and play.
 
 ---------------------------------------------------------------
 
+HAKCHI CE
+* https://github.com/pathartl/Hakchi2-CE/releases
+

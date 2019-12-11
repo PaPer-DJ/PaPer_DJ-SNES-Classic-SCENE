@@ -17,6 +17,10 @@ Add them to your copy of HakchiCE as they are, add cover art, sync and play.
 
 ---------------------------------------------------------------
 
-HAKCHI CE
+HAKCHI CE OFFICIAL Realeases (Latest Version)
+* https://github.com/TeamShinkansen/Hakchi2-CE/releases
+
+
+HAKCHI CE 3.5.3 Special Ed
 * https://github.com/pathartl/Hakchi2-CE/releases
 
